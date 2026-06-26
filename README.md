@@ -1,13 +1,18 @@
-# Synthetic Financial Market Dataset - Free 2k Sample
-======================================================
+Synthetic Data Dynamics – Premium Datasets
 
-This is a free 2,000-row sample of our synthetic financial market dataset.
+We provide high-quality synthetic datasets for AI training and analytics.
+All data is 100% synthetic. No privacy issues. No real data.
 
-Full premium edition (100,000 rows + PDF documentation + commercial license) is available upon request.
+Free samples available. Full editions (100k rows + PDF + license) on request.
+
+Categories:
+- Financial Trading
+- Healthcare
+- Real Estate
+- Industrial IoT
+- E-Commerce
 
 Contact: syntheticdatadynamics@gmail.com
 
-License: CC BY-NC-SA 4.0 (Attribution-NonCommercial-ShareAlike)
-
----
+Free samples under CC BY-NC-SA 4.0. Commercial use requires the premium edition.
 
