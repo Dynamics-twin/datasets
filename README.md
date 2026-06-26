@@ -11,4 +11,3 @@ License: CC BY-NC-SA 4.0 (Attribution-NonCommercial-ShareAlike)
 
 ---
 
-[📥 Click here to download the free trading sample (CSV)](https://img.statically.io/dl/raw.githubusercontent.com/Dynamics-twin/datasets/main/dataset_trading_sample.csv)
